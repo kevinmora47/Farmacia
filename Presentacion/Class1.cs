@@ -5,6 +5,7 @@ namespace Presentacion
     public class Class1
     {
 
-       //jksjkdjskdd
+        public int nombre { get; set; }
+        //Hecho por Gilberto
     }
 }
