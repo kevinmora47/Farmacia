@@ -7,5 +7,11 @@ namespace Presentacion
 
         public int nombre { get; set; }
         //Hecho por Gilberto
+        public int apellido { get; set; }
+        //Hecho por mora
+
+
     }
+
+
 }
